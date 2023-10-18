@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import sklearn
+import scikit learn
 
 st.title("IPL WIN PREDICTOR")
 teams=['Sunrisers Hyderabad',
